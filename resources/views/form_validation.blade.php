@@ -27,7 +27,9 @@
                     </ul>
                  </div>
               @endif
-              
+
+          
+
                 <div class="row">
                     <div class="col-md-6">
                         <div class="form-group">
@@ -50,7 +52,7 @@
                     <div class="col-md-6">
                         <div class="form-group">
                             <label for="email">Email Address</label>
-                            <input type="email" class="form-control" id="email" placeholder="">
+                            <input type="email" class="form-control" id="email" name="email" placeholder="">
                         </div>
                     </div>
                 </div>
